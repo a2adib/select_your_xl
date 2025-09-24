@@ -1,0 +1,122 @@
+[
+  {
+    "player_img": "https://media.crictracker.com/media/attachments/1696748634550_Shakib-Al-Hasan.jpeg",
+    "player_name": "Shakib Al Hasan",
+    "player_country": "Bangladesh",
+    "player_role": "All-rounder",
+    "ratings": 9.5,
+    "player_price": "200,000 USD",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Slow left-arm orthodox"
+  },
+  {
+    "player_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQn0b20knTWzdrpChOmPnk5BXbZ-nNQX1rxyQCjjSRgjvtoSKr5DXudA9VA1unihDLVKvBcfARO4pNhk1u6j04VZYq4vHe6WNWSl_WrHRRC",
+    "player_name": "Tamim Iqbal",
+    "player_country": "Bangladesh",
+    "player_role": "Batsman",
+    "ratings": 8.7,
+    "player_price": "150,000 USD",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak"
+  },
+  {
+    "player_img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqOAal9rgAzjc0HhDvMhlwmwJpi2wpaOtFBnqWueu7iMPK68VJwZfbQDX_Hm8wFXKF-hKbLXWim6G_5k-ZoarFHrjJOWyHwIZA2TcEs08",
+    "player_name": "Mustafizur Rahman",
+    "player_country": "Bangladesh",
+    "player_role": "Bowler",
+    "ratings": 9.0,
+    "player_price": "180,000 USD",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm fast-medium"
+  },
+  {
+    "player_img": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcS8cp3co1cL1N8gGUI09VPgWNG_vY4_jYx9o0YQ4OdxHMmPgzAVGh2lpyrFol_Ccns04pCFC7dXbkU4e8IcIKyv6zLBi5JJ65K8ShV8BxVHsxm4rjYl7n1nOnDtbZyEnMArXn9kZSnkE4Vj",
+    "player_name": "Mahmudullah Riyad",
+    "player_country": "Bangladesh",
+    "player_role": "All-rounder",
+    "ratings": 8.3,
+    "player_price": "130,000 USD",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm offbreak"
+  },
+  {
+    "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFZDsrqNqHxY5fSPUQi-JUhOoxhs9uoD49z3yF_eZBtPQPKzx0K4EYr8fICgk_b4b23FQ&usqp=CAU",
+    "player_name": "Mashrafe Bin Mortaza",
+    "player_country": "Bangladesh",
+    "player_role": "Bowler",
+    "ratings": 8.0,
+    "player_price": "120,000 USD",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium-fast"
+  },
+  {
+    "player_img": "https://media.gettyimages.com/id/1711533800/photo/guwahati-india-mushfiqur-rahim-of-bangladesh-poses-for-a-portrait-ahead-of-the-icc-mens.jpg?s=612x612&w=gi&k=20&c=nUuI8x8JrqiZAbBqcBx6yU7SUY7d63is5-UypeTwX5M=",
+    "player_name": "Mushfiqur Rahim",
+    "player_country": "Bangladesh",
+    "player_role": "Wicketkeeper Batsman",
+    "ratings": 8.8,
+    "player_price": "160,000 USD",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "N/A"
+  },
+  {
+    "player_img": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_1200,q_60/lsci/db/PICTURES/CMS/301300/301302.jpg",
+    "player_name": "Liton Das",
+    "player_country": "Bangladesh",
+    "player_role": "Wicketkeeper Batsman",
+    "ratings": 8.5,
+    "player_price": "140,000 USD",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "N/A"
+  },
+  {
+    "player_img": "https://i2.wp.com/crictoday.com/wp-content/uploads/2023/04/Andre-Russell.jpg?ssl=1",
+    "player_name": "Andre Russell",
+    "player_country": "West Indies",
+    "player_role": "All-rounder",
+    "ratings": 9.6,
+    "player_price": "220,000 USD",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm fast"
+  },
+  {
+    "player_img": "https://media.gettyimages.com/id/2155156903/photo/port-of-spain-trinidad-and-tobago-rashid-khan-of-afghanistan-poses-for-a-portrait-prior-to.jpg?s=612x612&w=gi&k=20&c=DrMfqkzJCiX7ciihAKcdluBSkuQGnuDJLjLBZobmGn8=",
+    "player_name": "Rashid Khan",
+    "player_country": "Afghanistan",
+    "player_role": "Bowler",
+    "ratings": 9.4,
+    "player_price": "210,000 USD",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Legbreak googly"
+  },
+  {
+    "player_img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR8oGD59h87uoWQ-s2d7Wh7GoJ2Qbty9cAmSOX2Kgr4zvENOGPOcdubTQ-u03hC9nZHVOQF3bTXiWb0sOqKdbvCOQMMxUNTl6-jOWnbPcQ",
+    "player_name": "Kieron Pollard",
+    "player_country": "West Indies",
+    "player_role": "All-rounder",
+    "ratings": 9.1,
+    "player_price": "200,000 USD",
+    "batting_style": "Right-hand bat",
+    "bowling_style": "Right-arm medium"
+  },
+  {
+    "player_img": "https://p.imgci.com/db/PICTURES/CMS/388000/388018.5.png",
+    "player_name": "David Miller",
+    "player_country": "South Africa",
+    "player_role": "Batsman",
+    "ratings": 8.9,
+    "player_price": "175,000 USD",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Right-arm offbreak"
+  },
+  {
+    "player_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQydDX9QtHwruaLgAjAlW_dR19xGeYYzUYWqg&s",
+    "player_name": "Sam Curran",
+    "player_country": "England",
+    "player_role": "All-rounder",
+    "ratings": 8.8,
+    "player_price": "185,000 USD",
+    "batting_style": "Left-hand bat",
+    "bowling_style": "Left-arm medium-fast"
+  }
+]
