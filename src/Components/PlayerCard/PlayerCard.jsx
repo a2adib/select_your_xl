@@ -9,8 +9,12 @@ const PlayerCard = ({player, availableBalance, setAvailableBalance, purchesedPla
     const playerPrice = parseInt(playerData.player_price.split("USD").join("").split(",").join(""))
     if(availableBalance<playerPrice){
         toast("Not enough Balance")
-        return;
-    };
+        return
+    }
+    if (purchesedPlayer.length===6) {
+        toast("6 players Selected")
+        return
+    }
     setPurchesedPlayer([...purchesedPlayer, playerData])
     setIsSelected(true);
     setAvailableBalance(availableBalance-playerPrice)
